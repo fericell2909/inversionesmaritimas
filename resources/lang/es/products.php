@@ -1,0 +1,42 @@
+<?php
+return array(
+	'imagen'   => 'Imagen',
+    'title'      => 'Gestión de Productos',
+    'newproduct' => 'Añadir Nuevo Producto',
+    'newproductstock' => 'Añadir Stock a Productos',
+    'selectcat'  => 'Seleccionar subcategoria ',
+    'search'     => 'Búsqueda por nombre o identificación de productos',
+    'gname'      => 'Nombre Genérico',
+    'category'   => 'Categoría',
+    'subcategory'   => 'SubCategoría',
+    'seffect'    => 'Efecto secundario',
+    'price'      => 'Precio',
+    'quantity'   => 'Cantidad',
+    'expire'     => 'Expirar',
+    'control'    => 'Controlar',
+    'inventory'  => 'Inventario',
+    /*
+       Show - Create - Edit
+    */
+    'newtitle'   => 'Añadir Nuevo Producto',
+    'edittitle'  => 'Editar a ',
+    'bname'      => 'Nombre Comercial',
+    'idp'        => 'Número de Productos',
+    'country'    => 'País',
+    'desc'       => 'Descripción',
+    'exdate'     => 'Fecha de caducidad',
+    'imdate'     => 'Fecha de Ingreso',
+    'provName'   => 'Nombre del Proveedor',
+    'salePrice'  => 'Precio de Venta al Cliente',
+    'orgPrice'   => 'Precio de Compra',
+    'discount'   => 'Descuento',
+    'dtype'      => 'Icono del Producto',
+    'pill'       => 'Píldoras',
+    'syrup'      => 'Jarabe',
+    'syringe'    => 'Jeringa',
+    'barcode'    => 'Código de barras',
+    'img'        =>  'Subida de imagen',
+    'clear'      =>  'claro',
+    'browser'    =>  'Navegador',
+
+);

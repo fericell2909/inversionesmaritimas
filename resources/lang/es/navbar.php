@@ -1,0 +1,30 @@
+<?php
+return array(
+    'dashboard' => 'Inicio',
+    'products'  => 'Logistica',
+    'manage'    => 'Ingresar Medicina',
+    'outstock'  => 'Sin stock',
+    'expired'  =>  'Vencidos',
+    'porvencer'  => 'Por Vencer',
+    'sell'      => 'Vender',
+    'sales'     => 'Reporte de Ventas',
+    'category'  => 'Categorías',
+    'provider'  => 'Proveedores',
+    'setting'   => 'Configuración',
+    'lt'        => 'Idioma y color',
+    'users'     => 'Usuarios',
+    'analysis'  => 'Análisis',
+    'customers' => 'Clientes',
+    'printer'   => 'Documento',
+    'tools'     => 'Herramientas',
+    'discount'  => 'Calculadora de descuentos',
+    'note'      => 'Nota',
+    'dsearch'   => 'Búsqueda medicinal',
+    'other'     => 'Codigo de Barras',
+    'account'   => 'Cuenta ',
+    'logout'    => 'Cerrar sesión ',
+    'backup'  => 'De seguridad',
+    'search'    => 'Búsqueda',
+    'series'   => 'Series'
+
+);

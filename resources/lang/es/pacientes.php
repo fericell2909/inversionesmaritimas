@@ -1,0 +1,22 @@
+<?php
+return array(
+    'id'                => '#',
+    'title'             => 'Listado de Pacientes',
+    'newpacientes'      => 'Registrar Paciente',
+    'editpaciente'      => 'Editar a',
+    'name'              => 'Nombres del A',
+    'apellidomaterno'   => 'Apellido Materno',
+    'apellidopaterno'   => 'Apellido Paterno',
+    'pacienteno'  => 'Paciente Nº.',
+    'edad'     => 'Edad',
+    'sexo'       => 'Sexo',
+    'dni'       => 'Dni',
+    'direccion' => 'Direccion',
+    'telefono'        => 'Telefono',
+    'celular'    => 'Celular',
+    'fechanacimiento'      => 'Fecha de Nac.',
+    'gruposanguineo'        => 'Grupo Sanguineo',
+    'estado'        =>  'Estado',
+    'search'        =>  'Búsqueda de Pacientes por Dni o Apellido',
+    'control'        =>  'Opciones',
+);
