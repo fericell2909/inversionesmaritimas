@@ -1,4 +1,4 @@
-# Farmacia
+# Inversiones Maritimas
 Aplicacion realizada para la facturacion basica de medicamentos y seguimientos de los mismos.
 
 ## Pasos para la instalacion
